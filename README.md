@@ -1,4 +1,4 @@
-# Hi, I'm [Gursagar Singh Anandi!](https://GursagarX.github.io/) 👋
+# Hi, I'm Gursagar Singh Anandi! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=GursagarX&label=Views&color=blue&style=plastic" alt="GursagarX" /> </p>
 
