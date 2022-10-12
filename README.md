@@ -26,10 +26,9 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: The famous person who inspires me most is Steve Jobs!.
 
-[![Twitter: shubh4grd](https://img.shields.io/twitter/follow/shubh4grd?style=social)](https://twitter.com/shubh4grd)
+[![Twitter: shubh4grd](https://img.shields.io/twitter/follow/Gursagar_?style=social)](https://twitter.com/Gursagar_)
 [![Linkedin: shubham](https://img.shields.io/badge/-Gursagar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gursagar-singh-26b318249/)](https://www.linkedin.com/in/gursagar-singh-26b318249/)
-[![GitHub shubh4grd](https://img.shields.io/github/followers/shubh4grd?label=follow&style=social)](https://github.com/shubh4grd)
-[![website](https://img.shields.io/badge/PortfolioWebsite-Shubham-2648ff?style=flat-square&logo=google-chrome)](https://shubh4grd.github.io/)
+[![GitHub shubh4grd](https://img.shields.io/github/followers/GursagarX?label=follow&style=social)](https://github.com/GursagarX)
 
 
 **Languages and Tools:**  
