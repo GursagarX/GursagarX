@@ -27,7 +27,7 @@
 - ⚡ Fun fact: The famous person who inspires me most is Steve Jobs!.
 
 [![Twitter: shubh4grd](https://img.shields.io/twitter/follow/shubh4grd?style=social)](https://twitter.com/shubh4grd)
-[![Linkedin: shubham](https://img.shields.io/badge/-Shubham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubham-kumar-burman/)](https://www.linkedin.com/in/shubham-kumar-burman/)
+[![Linkedin: shubham](https://img.shields.io/badge/-Gursagar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gursagar-singh-26b318249/)](https://www.linkedin.com/in/gursagar-singh-26b318249/)
 [![GitHub shubh4grd](https://img.shields.io/github/followers/shubh4grd?label=follow&style=social)](https://github.com/shubh4grd)
 [![website](https://img.shields.io/badge/PortfolioWebsite-Shubham-2648ff?style=flat-square&logo=google-chrome)](https://shubh4grd.github.io/)
 
