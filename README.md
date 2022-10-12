@@ -1,6 +1,6 @@
 # Hi, I'm [Gursagar Singh Anandi!](https://shubh4grd.github.io/) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh4grd&label=Views&color=blue&style=plastic" alt="shubh4grd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GursagarX&label=Views&color=blue&style=plastic" alt="GursagarX" /> </p>
 
 <a href="https://twitter.com/Gursagar_">
   <img align="left" alt="Gursagar's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
