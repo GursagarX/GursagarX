@@ -1,22 +1,47 @@
-# 💫 About Me:
-🔭 I’m currently working on making small C projects<br>👯 I’m looking to collaborate on helping with preparing useful C programs<br>🤝 I’m looking for help with making my Core Concepts clear<br>🌱 I’m currently learning C, C++, HTML 5, CSS 3, JavaScript<br>💬 Ask me about hobbies, lifestyle, or for collaboration<br>⚡ Fun fact  Bill Gates, Co-founder of Microsoft, created his first computer program- an implementation of tic-tac-toe that enabled users to play games against the computer
+<h1 align="center">🚀 Welcome to My GitHub! 🚀</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=2bbc8a">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=yellow">
+  <img src="https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&color=green">
+  <img src="https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&color=blue">
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/singh_gursagar_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gursagar-singh-26b318249/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Gursagar_) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gursagar&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gursagar&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gursagar&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 👋 About Me
+- 🎓 Computer Science student with a passion for **cybersecurity & AI**.
+- 🔬 Exploring **cryptography, AI in healthcare, and system security**.
+- 🏗️ Dedicated to building **minimalistic, high-performing, and secure** applications.
+- 🎵 Currently working on a **music streaming service** and a **hospital management system**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gursagar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📌 Current Projects
+- 🏥 **Hospital Management System** *(Django, MySQL, JavaScript)*
+- - 🎶 **Music Streaming Service** *(React, Django, PostgreSQL)*
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/gssanandi2j) 
+---
+
+## ⚡ Tech Stack
+
+```text
+💻 Languages:        Python, JavaScript, C++, Java
+🌐 Web Development:  HTML, CSS, Django, React
+🛠️ Tools & Tech:     Git, VSCode, MySQL, Linux
+🔐 Security:         Cryptography, Hashing (SHA-256, Argon2)
+````
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/GursagarX">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/gs-anandi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
+
